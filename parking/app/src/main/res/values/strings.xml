@@ -1,0 +1,31 @@
+<resources>
+    <string name="url">http://putator.serveo.net</string>
+    <string name="app_name">Parking</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="logout">Logout</string>
+    <string name="map">Map</string>
+    <string name="history">History</string>
+    <string name="status">Status</string>
+    <string name="reserve">Reserve</string>
+    <string name="profile">Profile</string>
+    <string name="start_date">Start date</string>
+    <string name="start_time">Start time</string>
+    <string name="departure_date">Departure date</string>
+    <string name="departure_time">Departure time</string>
+    <string name="confirm">Confirm</string>
+    <string name="title_activity_google_maps">Map</string>
+    <string name="get_directions">Get directions</string>
+    <string name="preferences">preferences</string>
+    <string name="id">id</string>
+    <string name="userId">userId</string>
+    <string name="user_uri">/user</string>
+    <string name="email_dto">email</string>
+    <string name="password_dto">password</string>
+    <string name="change">Change</string>
+    <string name="upload">Upload</string>
+    <string name="reserve_uri">/reserve</string>
+    <string name="hour_price">3.0</string>
+</resources>
